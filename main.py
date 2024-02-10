@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Dec 1 21:10:38 2023
-
-@author: nicolefernandez
-"""
 
 from colorama import Fore
 class DreamHousing:
@@ -58,6 +53,3 @@ class DreamHousing:
                     
 finder = DreamHousing()
 finder.suggestion()
-
-
-
